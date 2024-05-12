@@ -246,7 +246,8 @@ product.html
             <div class="card-body">
               <h5 class="card-title">Over-the-counter (OTC)</h5>
               <p class="card-text">These drugs you can buy without a prescription. Some OTC medicines relieve aches, pains, and itches.</p>
-              <a href="#" class="btn btn-primary">Buy Now</a>
+              <a href="#" class="btn btn-primary">Buy Now</a><br><br>
+              <a>₹599</a>
             </div>
           </div>
           <div class="card">
@@ -254,7 +255,8 @@ product.html
             <div class="card-body">
               <h5 class="card-title"> Depression Anxiety</h5>
               <p class="card-text">A pharmaceutical drug that is permitted to be dispensed only to those with a medical prescription.</p>
-              <a href="#" class="btn btn-primary">Buy Now</a>
+              <a href="#" class="btn btn-primary">Buy Now</a><br><br>
+              <a>₹2999</a>
             </div>
           </div>
           <div class="card">
@@ -262,7 +264,8 @@ product.html
             <div class="card-body">
               <h5 class="card-title">Vaccine</h5>
               <p class="card-text">A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease.</p>
-              <a href="#" class="btn btn-primary">Buy Now</a>
+              <a href="#" class="btn btn-primary">Buy Now</a><br><br>
+              <a>₹299</a>
             </div>
           </div>
           <div class="card">
@@ -270,7 +273,8 @@ product.html
             <div class="card-body">
               <h5 class="card-title">Supplements</h5>
               <p class="card-text">These include vitamins, minerals, herbs and botanicals, probiotics, and more.</p>
-              <a href="#" class="btn btn-primary">Buy Now</a>
+              <a href="#" class="btn btn-primary">Buy Now</a><br><br>
+              <a>₹999</a>
             </div>
           </div>
         </div>
